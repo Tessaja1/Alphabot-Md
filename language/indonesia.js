@@ -3,7 +3,7 @@ exports.wait = () => {
 }
 
 exports.ok = () => {
-    return `✅ Done. Ok desu~`
+    return `✅ Ok Behasil ya~`
 }
 
 exports.err = () => {
@@ -106,25 +106,6 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ├ ${prefix}del [pesan bot]
 ╰❒ ${prefix}setppbot [reply image]
 
-╭─❒ 「 Group 」 
-├ ${prefix}revoke
-├ ${prefix}leave
-├ ${prefix}add [62***]
-├ ${prefix}kick @tag
-├ ${prefix}revoke
-├ ${prefix}leave
-├ ${prefix}linkgc
-├ ${prefix}group [open/close]
-├ ${prefix}tagall [text]
-╰❒ ${prefix}hidetag [text]
-
-╭─❒ 「 Anime 」 
-├ ${prefix}quotesanime
-├ ${prefix}anime [query]
-├ ${prefix}manga [query]
-╰❒ ${prefix}character [query]
-
-
 ╭─❒ 「 Search 」 
 ├ ${prefix}ytsearch [query]
 ├ ${prefix}film [query]
@@ -216,40 +197,6 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ├ ${prefix}igreels [link]
 ├ ${prefix}igtv [link]
 ╰❒ ${prefix}twitter link
-
-
-╭─❒ 「 Random Anime 」
-├ ${prefix}loli
-├ ${prefix}neko
-├ ${prefix}waifu
-├ ${prefix}shinobu
-├ ${prefix}megumin
-├ ${prefix}bully
-├ ${prefix}cuddle
-├ ${prefix}cry
-├ ${prefix}hug
-├ ${prefix}awoo
-├ ${prefix}lick
-├ ${prefix}pat
-├ ${prefix}smug
-├ ${prefix}bonk
-├ ${prefix}yeet
-├ ${prefix}blush
-├ ${prefix}smile
-├ ${prefix}wave
-├ ${prefix}highfive
-├ ${prefix}handhold
-├ ${prefix}nom
-├ ${prefix}bite
-├ ${prefix}glomp
-├ ${prefix}slap
-├ ${prefix}kill
-├ ${prefix}happy
-├ ${prefix}wink
-├ ${prefix}poke
-├ ${prefix}dance
-╰❒ ${prefix}cringe
-
 
 ╭─❒ 「 TqTo 」 
 ├ My God
