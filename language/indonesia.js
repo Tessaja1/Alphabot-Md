@@ -130,7 +130,6 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ├ ${prefix}film [query]
 ├ ${prefix}wallpaper [query]
 ├ ${prefix}wikimedia [query]
-├ ${prefix}hentai
 ├ ${prefix}wattpad [query]
 ├ ${prefix}webtoons [query]
 ├ ${prefix}drakor [query]
@@ -179,7 +178,6 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ├ ${prefix}beautiful [reply image]
 ├ ${prefix}jail [reply image]
 ├ ${prefix}red [reply image]
-├ ${prefix}gay [reply image]
 ├ ${prefix}bloo [reply image]
 ├ ${prefix}blue [reply image]
 ├ ${prefix}sepia [reply image]
@@ -231,7 +229,6 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ├ ${prefix}cry
 ├ ${prefix}hug
 ├ ${prefix}awoo
-├ ${prefix}kiss
 ├ ${prefix}lick
 ├ ${prefix}pat
 ├ ${prefix}smug
@@ -264,6 +261,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ├ Nurutomo
 ├ Rashid
 ├ ZeeoneOfc
+├ Yogi
 ├ Penyedia Module
 ╰❒ And All Support
 
